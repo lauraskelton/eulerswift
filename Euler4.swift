@@ -59,7 +59,7 @@ func findPalindrome() -> (Int, Int, Int) {
     // largest possible value of 3 digit number multiples is 999 * 999 = 998001
     
     // want i + j to be as small as possible, and then for i - j to be as small as possible
-    // for (999 - i) * (999 - j)
+    // for (999 - i) * (999 - j) -> sum(i,j)
     // 999 * 999 -> 0 = 998001
     // 999 * 998 -> 1 = 997002
     // 998 * 998 -> 2 = 996004
