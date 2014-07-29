@@ -7,4 +7,10 @@
    <FileRef
       location = "group:Euler1.playground">
    </FileRef>
+   <FileRef
+      location = "group:Euler1.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Euler2.swift">
+   </FileRef>
 </Workspace>

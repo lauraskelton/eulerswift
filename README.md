@@ -1,3 +1,3 @@
 Description
 ===========
-Project Euler problems solved in Swift Playgrounds
+Project Euler problems solved in Swift
