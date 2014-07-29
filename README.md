@@ -1,4 +1,4 @@
-Description
+Project Euler Problems
 ===========
 Project Euler problems solved in Swift
 
