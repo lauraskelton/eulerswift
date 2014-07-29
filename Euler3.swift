@@ -17,8 +17,6 @@
 
 import Foundation
 
-
-// need a function to recursively find factors of a number, then refactor those into primes?
 class factor {
     var arrayFactors: [Int]
     
@@ -52,7 +50,7 @@ class factor {
             i += 1
         }
         
-        // we should have all of the prime factors stored in arrayFactors now, so find the max
+        // we should have all of the prime factors stored in arrayFactors now, so find the max, which is the last element of arrayFactors
         
         return arrayFactors.removeLast()
     }

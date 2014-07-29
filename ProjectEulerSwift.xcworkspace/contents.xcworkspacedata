@@ -16,4 +16,7 @@
    <FileRef
       location = "group:Euler3.swift">
    </FileRef>
+   <FileRef
+      location = "group:Euler4.swift">
+   </FileRef>
 </Workspace>
